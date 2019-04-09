@@ -1,3 +1,10 @@
+This repo is for experimenting with branches and merging.
+
+git branch      excecuting will display the 
+git branch [new-branch-name]        creates a branch with that name
+git push --set-upstream origin [new-branch-name]        pushes and creates the upstream origin.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
